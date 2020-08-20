@@ -1,7 +1,7 @@
 # Neural Style Transfer
 
 Neural style transfer is a technique used to generate images in the style of another image. The neural-style algorithm takes a content-image as input, a style image, and returns the content image as if it were painted using the artistic style of the style image.
-This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network architecture VGG19.
+This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolution network architecture VGG19.
 
 ## Content image & Style image
 
